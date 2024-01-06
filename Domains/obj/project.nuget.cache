@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJ7roafdS63MgTW9+nxyn2da9CZ/ytBVsz0OZQ3d9+9JxXRpmPMbAhlWqJTc3nK38XRqWlkN6o19MTRw5TN7Hg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\waleed\\Desktop\\ASP\\LapShop\\Domains\\Domains.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Components.Web (>= 6.0.8)' for 'net6.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.Components.Web",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.Mvc.Core (>= 2.2.5)' for 'net6.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
